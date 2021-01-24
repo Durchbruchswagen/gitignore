@@ -53,16 +53,16 @@ Wyrażenia matematyczne zapisuje się pomiędzy _$ $_. Otwierający _$_ musi prz
 
 ### Typ 4
 
-## Opis
+#### Opis
 Zadania typu-4, to rodzaje zadań oparte na formułach logicznych.
 Aktualnie obsługiwane są dwa warianty zadań, równoważność i wartościowania.
 Program pobiera informacje o zadaniu z pliku json, a następnie na jego podstawie
 generuje wybraną ilość pakietów zadań, gdzie każde zadanie ma 4 podpunkty.
 
-## Przykład pdf-a
+#### Przykład pdf-a
 <img src="zrzuty_ekranu_typ4/scr1.png">
 
-## Json, konstrukcja
+#### Json, konstrukcja
 Konstrukcja pliku json jest następująca
 
 <img src="zrzuty_ekranu_typ4/scr2.png">
@@ -72,7 +72,7 @@ lub
 
 <img src="zrzuty_ekranu_typ4/scr3.png">    
 
-### Objaśnienia
+##### Objaśnienia
 
 Kategoria- typ zadania, w tym wypadku jest to oczywiście typ 4.    
   
